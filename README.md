@@ -11,7 +11,7 @@
 
 以2016年全年汽车投诉作为参照数据，评比出了中国合资汽车品牌的质量表现，具体排名如下：
 
-![国内合资车质量排名](https://raw.githubusercontent.com/openset/car/master/img/quality.jpeg)
+![国内合资车质量排名](https://raw.githubusercontent.com/openset/car/master/img/quality.jpg)
 
 
 ## [如何选购轿车](http://www.2ge.cn/home/wd/31EC84614C8743C733487F8858BFA6B7)
